@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: About me:
+### 👨‍💻 About me:
 
 I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am enhancing my knowledge of Python and exploring new technologies. Consider taking me as an intern.
 
@@ -18,7 +18,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 -->
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
 
 ---
 
