@@ -1,4 +1,4 @@
-# Hi 👋, I'm Danila Sklovskii!
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danila Sklovskii!
 
 ---
 
@@ -14,9 +14,9 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 --
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
---
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 -->
+
+- 🌍 I'm based in Podgorica, Montenegro
 
 - 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danila-sklovskii?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
 
@@ -46,7 +46,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 ---
 -->
 
-## 💻 Technologies
+## 💻 Skills
 
 - **Programming Languages:**
   <div>
