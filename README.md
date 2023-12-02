@@ -18,7 +18,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 -->
 
-- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danilasklovskii)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
 
 ---
 
@@ -97,8 +97,6 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
     <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="30" height="30"/>
   </div>
 
----
-
 <!--
 ### 💻 Languages and Technologies:
 
@@ -118,8 +116,6 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div> -->
 
----
-
 <!--
 ### 🛠 Инструменты:
 
@@ -134,8 +130,6 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 -->
-
----
 
 <!-- ### 💻 Пройденные курсы:
 
