@@ -18,7 +18,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 -->
 
-- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danilasklovskii)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danila-sklovskii?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/skl_danechka20) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
 
 ---
 
