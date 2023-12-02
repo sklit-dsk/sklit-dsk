@@ -49,29 +49,57 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 ## 💻 Technologies
 
 - **Programming Languages:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="30" height="30"/>
+  </div>
 
-<div>
-  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="30" height="30"/>
-</div>
+- **Databases:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Cassandra-Dark.svg" title="Cassandra" alt="Cassandra" width="30" height="30"/>
+  </div>
 
-- **Databases:** PostgreSQL, Cassandra
+- **Web Technologies:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/HTML.svg" title="HTML" alt="HTML" width="30" height="30"/>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/CSS.svg" title="CSS" alt="CSS" width="30" height="30"/>
+  </div>
 
-- **Web Technologies:** HTML, CSS
+- **Frameworks:**
+  <div>
+      <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Django.svg" title="Django" alt="Django" width="30" height="30"/>
+      <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="30" height="30"/>
+  </div>
 
-- **Frameworks:** Django, FastAPI
+- **Version Control:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Git.svg" title="GIT" alt="GIT" width="30" height="30"/>
+  </div>
 
-- **Version Control:** GIT
+- **Containerization:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Docker.svg" title="Docker" alt="Docker" width="30" height="30"/>
+  </div>
 
-- **Containerization:** Docker
+- **Server OS:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="30" height="30"/>
+  </div>
 
-- **Server OS:** Linux
+- **Cloud & Infrastructure:**
+  <div>
+      <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="30" height="30"/>
+      <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Ansible.svg" title="Ansible" alt="Ansible" width="30" height="30"/>
+  </div>
 
-- **Cloud & Infrastructure:** Azure, Ansible
-
-- **Design Tools:** Figma
+- **Design Tools:**
+  <div>
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="30" height="30"/>
+  </div>
 
 ---
 
+<!--
 ### 💻 Languages and Technologies:
 
 <div>
@@ -79,8 +107,6 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/CSS.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  
-  <!--
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/MongoDB.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
@@ -89,12 +115,12 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+</div> -->
 
 ---
 
+<!--
 ### 🛠 Инструменты:
 
 <div>
@@ -107,6 +133,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 ---
 
@@ -124,7 +151,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
 --- -->
-
+<!--
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
@@ -141,5 +168,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
     </td>
   </tr>
 </table>
-
+-->
+<!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+-->
