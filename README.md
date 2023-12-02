@@ -46,9 +46,13 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 ---
 -->
 
-## Technologies
+## 💻 Technologies
 
-- **Programming Languages:** <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
+- **Programming Languages:**
+
+<div>
+  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="15" height="15"/>
+</div>
 
 - **Databases:** PostgreSQL, Cassandra
 
