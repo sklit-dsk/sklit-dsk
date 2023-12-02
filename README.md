@@ -135,8 +135,15 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sklDanila&show_icons=true&count_private=true&hide_border=true" align="center"/>
-</div>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sklDanila&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklDanila&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 <!-- ### 💻 Пройденные курсы:
 
