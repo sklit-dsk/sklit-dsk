@@ -131,6 +131,13 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 </div>
 -->
 
+---
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sklDanila&show_icons=true&count_private=true&hide_border=true" align="center"/>
+</div>
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
