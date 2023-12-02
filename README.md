@@ -46,14 +46,38 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 ---
 -->
 
-### 💻 Технологии:
+## Technologies
+
+- **Programming Languages:** <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
+
+- **Databases:** PostgreSQL, Cassandra
+
+- **Web Technologies:** HTML, CSS
+
+- **Frameworks:** Django, FastAPI
+
+- **Version Control:** GIT
+
+- **Containerization:** Docker
+
+- **Server OS:** Linux
+
+- **Cloud & Infrastructure:** Azure, Ansible
+
+- **Design Tools:** Figma
+
+---
+
+### 💻 Languages and Technologies:
 
 <div>
+  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/CSS.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/MongoDB.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  
   <!--
+  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/MongoDB.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
