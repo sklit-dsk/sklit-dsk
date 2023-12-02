@@ -51,7 +51,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - **Programming Languages:**
 
 <div>
-  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="15" height="15"/>
+  <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/python.svg" title="Python" alt="Python" width="30" height="30"/>
 </div>
 
 - **Databases:** PostgreSQL, Cassandra
