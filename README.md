@@ -6,7 +6,7 @@
 
 I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am enhancing my knowledge of Python and exploring new technologies. Consider taking me as an intern.
 
-<img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/main/ico/IMG_1217-2.gif" width="1000" height="300" alt="telegram" />
+<img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="telegram" />
 <!--
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
