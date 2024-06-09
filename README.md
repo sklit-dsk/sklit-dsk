@@ -59,7 +59,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - **Databases:**
   <div>
     <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>
-    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Cassandra-Dark.svg" title="Cassandra" alt="Cassandra" width="30" height="30"/>
+<!--     <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Cassandra-Dark.svg" title="Cassandra" alt="Cassandra" width="30" height="30"/> -->
   </div>
 
 - **Web Technologies:**
@@ -87,12 +87,6 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 - **Server OS:**
   <div>
     <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="30" height="30"/>
-  </div>
-
-- **Cloud & Infrastructure:**
-  <div>
-      <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="30" height="30"/>
-      <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Ansible.svg" title="Ansible" alt="Ansible" width="30" height="30"/>
   </div>
 
 - **Design Tools:**
