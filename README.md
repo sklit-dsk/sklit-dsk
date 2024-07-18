@@ -127,7 +127,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 -->
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6648cee2bc68b74d9bbede92?variant=dark)](https://roadmap.sh)
 ---
 
 ## Github Stats
