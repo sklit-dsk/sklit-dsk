@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-I am a python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am enhancing my knowledge of Python and exploring new technologies. Consider taking me as an junior.
+I am a Full Stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am enhancing my knowledge and exploring new technologies. Consider taking me as an junior.
 
 <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="telegram" />
 <!--
