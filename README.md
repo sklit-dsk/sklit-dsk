@@ -129,7 +129,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 -->
 [![roadmap.sh](https://roadmap.sh/card/tall/6648cee2bc68b74d9bbede92?variant=dark)](https://roadmap.sh)
 ---
-
+<!--
 ## Github Stats
 
 <table><tr><td valign="top" width="50%">
@@ -141,6 +141,7 @@ I am a junior backend developer<img src="https://media.giphy.com/media/WUlplcMpO
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklDanila&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+--- -->
 
 <!-- ### 💻 Пройденные курсы:
 
