@@ -23,7 +23,7 @@ I am a Front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danila-sklovskii?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/sklit_dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)
 
----
+
 
 <!--
 ### 🤝 Социальные сети:
