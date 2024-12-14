@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Full Stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am enhancing my knowledge and exploring new technologies. Consider taking me as an junior.
+I am a Front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Open to any suggestions. Technology does not stand still and I am not a miss.
 
 <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="telegram" />
 <!--
@@ -21,7 +21,7 @@ I am a Full Stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🌍 I'm based in Podgorica, Montenegro
 
-- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danila-sklovskii?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/notbulldog) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii@gmail.com)
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danila-sklovskii?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/sklit_dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)
 
 ---
 
@@ -48,7 +48,7 @@ I am a Full Stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 -->
-
+<!--
 ## 💻 Skills
 
 - **Programming Languages:**
@@ -59,7 +59,7 @@ I am a Full Stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - **Databases:**
   <div>
     <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>
-<!--     <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Cassandra-Dark.svg" title="Cassandra" alt="Cassandra" width="30" height="30"/> -->
+    <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/icons/Cassandra-Dark.svg" title="Cassandra" alt="Cassandra" width="30" height="30"/>
   </div>
 
 - **Web Technologies:**
