@@ -18,7 +18,7 @@ I'm **Danila**, a passionate Frontend Developer 🚀, with a strong focus on bui
 
 - 🌍 I'm based in Podgorica, Montenegro
 
-- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/sklit?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/sklit_dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/danila-sklovskii?style=flat&logo=Telegram&logoColor=white&labelColor=blue&color=blue)](https://t.me/sklit_dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)
 
 ---
 
