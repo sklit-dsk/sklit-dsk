@@ -1,9 +1,7 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danila Sklovskii!
+# Hi there! 👋
 
+I'm **Danila**, a passionate Frontend Developer 🚀, with a strong focus on building clean and efficient web solutions. Always learning and growing in the field of modern web development!
 
-### 👨‍💻 About me:
-
-I am a Front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Open to any suggestions. Technology does not stand still and I am not a miss.
 
 <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="telegram" />
 <!--
