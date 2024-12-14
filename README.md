@@ -127,6 +127,7 @@ I am a Front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 -->
+<!--
 [![roadmap.sh](https://roadmap.sh/card/tall/6648cee2bc68b74d9bbede92?variant=dark)](https://roadmap.sh)
 ---
 <!--
@@ -182,10 +183,10 @@ I am a Front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 <div align="center">
-<!--             <a href="https://www.buymeacoffee.com/skldanila" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/skldanila" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a> -->
+            </a>
 </div>
