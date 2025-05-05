@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Danila**, a passionate Frontend Developer 🚀, with a strong focus on building clean and efficient web solutions. Always learning and growing in the field of modern web development!
+I'm **Danila**, a passionate Full Stack Developer 🚀, with a strong focus on building clean and efficient web solutions. Always learning and growing in the field of modern development!
 
 
 <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="telegram" />
@@ -27,6 +27,8 @@ I'm **Danila**, a passionate Frontend Developer 🚀, with a strong focus on bui
 ### 🔥 Frontend Development
 - **JavaScript**
 - **TypeScript**
+- **Python**
+- **Java**
 - **React**
   - React Router
   - React Hooks
