@@ -14,29 +14,6 @@ I'm **Danila**, a QA Engineer and developer with a technical background, focused
 
 ---
 
-## 💼 Experience
-
-### Junior QA Engineer (2022 — present)
-- Manual testing of web and mobile apps (React, React Native)
-- Pixel-perfect UI testing with Figma
-- API testing using Postman, Charles Proxy, Swagger
-- Bug reporting, checklist and test case creation
-- Debugging with DevTools
-
-### Freelance Automation Developer
-- Built automation tools and parsers using Python and JavaScript
-- Worked with APIs, browser automation, and data handling
-- Delivered solutions for e-commerce, marketing, and analytics
-
-### Startups
-- **Anti-social** — React Developer (2024)  
-  Created a quest page from scratch, collaborated on UI in Figma, tested and optimized UX
-
-- **AdVista** — React Native Developer (2023–2024)  
-  Developed "Profile" section, worked with iOS developers, handled testing and debugging
-
----
-
 ## 🧠 SKILLS
 
 **QA Skills**  
@@ -71,14 +48,29 @@ I'm **Danila**, a QA Engineer and developer with a technical background, focused
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sklDanila&show_icons=true&theme=react&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklDanila&layout=compact&theme=react" height="160" />
-</p>
+### Junior QA Engineer (2022 — present)
+- Manual testing of web and mobile apps (React, React Native)
+- Pixel-perfect UI testing with Figma
+- API testing using Postman, Charles Proxy, Swagger
+- Bug reporting, checklist and test case creation
+- Debugging with DevTools
+
+### Freelance Automation Developer
+- Built automation tools and parsers using Python and JavaScript
+- Worked with APIs, browser automation, and data handling
+- Delivered solutions for e-commerce, marketing, and analytics
+
+### Startups
+- **Anti-social** — React Developer (2024)  
+  Created a quest page from scratch, collaborated on UI in Figma, tested and optimized UX
+
+- **AdVista** — React Native Developer (2023–2024)  
+  Developed "Profile" section, worked with iOS developers, handled testing and debugging
 
 ---
+
 
 ## ☕ Support Me
 
