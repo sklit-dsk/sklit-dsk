@@ -1,83 +1,94 @@
 # Hi there! 👋
 
-I'm **Danila**, a QA Engineer and developer with a technical background, focused on manual and automated testing of mobile and web applications. Passionate about building reliable solutions and constantly improving my skills in software quality and development.
+I'm **Danila Sklovskii**, a QA Engineer with a strong foundation in manual testing of web and mobile applications, API validation, and UI/UX verification. I'm passionate about software quality, automation, and continuously improving engineering processes through hands-on collaboration and tools.
 
 <img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="work gif" />
 
 ---
 
 - 🌍 Based in Podgorica, Montenegro  
-- 🎓 Student of Information Systems and Technologies, UDG  
+- 🎓 Bachelor's Student in Information Systems and Technologies @ UDG  
 - 📫 Reach me:  
   [![Telegram Badge](https://img.shields.io/badge/@sklit_dev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sklit_dev)  
-  [![Gmail Badge](https://img.shields.io/badge/-danilasklovskii.dev@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-danilasklovskii.dev@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)  
+  [![LinkedIn Badge](https://img.shields.io/badge/-danila--sklovskii--qa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-sklovskii-qa/)  
+  [![GitHub Badge](https://img.shields.io/badge/-sklit--dsk-black?style=flat&logo=github&logoColor=white)](https://github.com/sklit-dsk)
 
 ---
 
 ## 🧠 SKILLS
 
 **QA Skills**  
-- Testing Methodologies  
-- Manual Testing  
-- Regression Testing  
-- Integration Testing  
-- Cross-browser Testing  
-- White-box / Black-box Testing  
-- Use Case & UI Testing  
+- Testing Methodologies / STLC  
+- Manual Web & Mobile Testing  
+- UI Testing (pixel-perfect via Figma)  
 - API Testing (Postman, Swagger, Charles Proxy)  
+- Regression / Functional / Exploratory Testing  
+- Black-box / White-box Testing  
 
 **Technical Skills**  
-- SQL  
-- Python  
-- JavaScript  
-- Bash  
-- Docker  
-- Apache Kafka  
-- DevTools  
-- Git  
+- Python / JavaScript / Bash  
+- SQL (queries, data validation)  
+- Docker / Apache Kafka / Git  
+- DevTools / Charles Proxy / Grafana  
 
 **Tools**  
-- Jira / Trello  
-- TestRail  
-- Grafana  
-- Charles Proxy  
+- Jira / Trello (task and bug tracking)  
+- TestRail (test case & plan management)  
 
-**Development Methodologies**  
+**Methodologies**  
 - Agile / Scrum  
 - Kanban  
 
 ---
 
-## 💼 Experience
+## 💼 EXPERIENCE
 
-### Junior QA Engineer (2022 — present)
-- Manual testing of web and mobile apps (React, React Native)
-- Pixel-perfect UI testing with Figma
-- API testing using Postman, Charles Proxy, Swagger
-- Bug reporting, checklist and test case creation
-- Debugging with DevTools
+### Junior QA Engineer — 1C Franchisee “Easy Code”  
+*Apr 2024 – May 2025*  
+- Manual testing of web & mobile apps (React, React Native)  
+- API testing via Postman, Swagger; verified responses & edge cases  
+- UI verification using Figma (cross-browser & responsive)  
+- Backend/API validation with focus on data integrity  
+- Bug reporting, checklist/test case creation  
+- Debugging via DevTools; worked closely with developers and designers  
+- Actively contributed during sprints and pre-release QA  
 
-### Freelance Automation Developer
-- Built automation tools and parsers using Python and JavaScript
-- Worked with APIs, browser automation, and data handling
-- Delivered solutions for e-commerce, marketing, and analytics
-
-### Startups
-- **Anti-social** — React Developer (2024)  
-  Created a quest page from scratch, collaborated on UI in Figma, tested and optimized UX
-
-- **AdVista** — React Native Developer (2023–2024)  
-  Developed "Profile" section, worked with iOS developers, handled testing and debugging
+### Freelance — QA & Automation Developer  
+*2023 – Apr 2024*  
+- Developed automation tools and parsers using Python and JS  
+- Integrated third-party APIs and handled data workflows  
+- Performed manual and semi-automated testing  
+- Identified performance issues and logic flaws; wrote detailed bug reports  
+- Collaborated with clients and teams to clarify requirements  
+- Used Git & GitHub for version control and collaboration  
 
 ---
 
+## 🎓 EDUCATION
+
+**University of Donja Gorica (UDG), Montenegro**  
+*Bachelor’s in Information Systems and Technologies (2023–2026)*  
+
+**Kazan National Research Technical University (KAI), Russia**  
+*Bachelor’s in Information Systems and Technologies (unfinished, 2020–2023)*  
+
+---
+
+## 🌐 LANGUAGES
+
+- 🇷🇺 Russian – Native  
+- 🇬🇧 English – Intermediate  
+- 🇷🇸 Serbian – Intermediate  
+
+---
 
 ## ☕ Support Me
 
 <div align="center">
-    <a href="https://www.buymeacoffee.com/skldanila" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" />
-    </a>
+  <a href="https://www.buymeacoffee.com/skldanila" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" />
+  </a>
 </div>
 
 ---
