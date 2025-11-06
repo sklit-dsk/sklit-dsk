@@ -9,7 +9,7 @@ I'm **Danila Sklovskii**, a QA Engineer with a strong foundation in manual testi
 - 🌍 Based in Podgorica, Montenegro  
 - 🎓 Bachelor's Student in Information Systems and Technologies @ UDG  
 - 📫 Reach me:  
-  [![Telegram Badge](https://img.shields.io/badge/@sklit_qa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sklit_dev)  
+  [![Telegram Badge](https://img.shields.io/badge/@sklit_qa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sklit_qa)  
   [![Gmail Badge](https://img.shields.io/badge/-danilasklovskii.dev@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)  
   [![LinkedIn Badge](https://img.shields.io/badge/-danila--sklovskii--qa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-sklovskii-qa/)  
   [![GitHub Badge](https://img.shields.io/badge/-sklit--dsk-black?style=flat&logo=github&logoColor=white)](https://github.com/sklit-dsk)
