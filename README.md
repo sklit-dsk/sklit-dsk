@@ -2,11 +2,7 @@
 
 ## QA Automation Engineer
 
-QA Automation Engineer with **3+ years of experience** testing web applications, backend systems, REST APIs, and microservice-based architectures.
-
-I focus on building reliable and maintainable automated tests for **API, UI, and E2E scenarios** using Python-based tooling.
-
-My main areas of interest are test automation, backend/API quality, integration testing, CI/CD, and improving test stability and feedback time.
+QA Automation Engineer with experience testing web applications, backend systems, REST APIs, and integrations across ERP and e-commerce platforms. Skilled in developing and maintaining API, UI, and E2E automated tests using Python, Pytest, Playwright, Requests, and Pydantic. Hands-on experience with PostgreSQL, SQLAlchemy, GitLab CI/CD, Docker, Kubernetes, and test reporting tools. Focused on building reliable test automation, improving regression stability, and ensuring software quality throughout the release cycle.
 
 ---
 
